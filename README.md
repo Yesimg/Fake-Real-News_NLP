@@ -17,5 +17,6 @@ Develop a machine learning program to identify when a news article might be fake
 **label:**  a label that marks the article as potentially unreliable \
             0: reliable
             1: unreliable
-        
+            
+###### source: https://www.kaggle.com/competitions/fake-news/data        
 
