@@ -1,22 +1,8 @@
 # Fake-Real_News
 
-![news](https://user-images.githubusercontent.com/70659176/193258250-519a2345-87b1-4522-ad12-df165d4fe283.jpeg)
+![R-F News](https://user-images.githubusercontent.com/70659176/198354666-f80ecb92-f04a-43e7-961b-0e234b4e33a7.png)
 
 
-### **Objective:**  
-Develop a machine learning program to identify when a news article might be fake news. Run by the UTK Machine Learning Club.
 
-### **Data Set Description:**
-
-*train.csv:* A full training dataset with the following attributes:
-
-**id:**     unique id for a news article \
-**title:**  the title of a news article \
-**author:** author of the news article \
-**text:**   the text of the article; could be incomplete \
-**label:**  a label that marks the article as potentially unreliable \
-            0: reliable
-            1: unreliable
-            
-###### source: https://www.kaggle.com/competitions/fake-news/data        
+      
 
